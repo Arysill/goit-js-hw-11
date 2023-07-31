@@ -1,7 +1,5 @@
 import axios from "axios";
 const BASE_URL = "https://pixabay.com/api/";
-
-
 async function fetchImages(searchValue, page = 1){
     const params = new URLSearchParams({
     key: "38424207-c86d4b463b0395cac7359a6bf",
@@ -17,5 +15,4 @@ async function fetchImages(searchValue, page = 1){
     return data;
 
 }
-
 export { fetchImages};

@@ -4,22 +4,22 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: aqua;
-    color: black;
-    height:100px;
+    background-color: rgb(226, 165, 179);
+    color: rgb(242, 242, 242);
+    height:110px;
 }
 input{
     margin-right: 20px;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 8px;
     border-style: none;
 }
 button{
     padding: 20px;
-    background-color: blue;
+    background-color: rgb(180, 27, 103);
     color: aliceblue;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 8px;
 border-style: none;
 
 }

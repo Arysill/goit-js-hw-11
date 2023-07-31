@@ -18,7 +18,6 @@ function createMarkup (arr){
                          <b>Downloads</b>
                          ${downloads}
                      </div>
-                 
              </div>
          </a>
          `
